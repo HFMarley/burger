@@ -1,0 +1,48 @@
+body {
+  background-image: url(../img/jack_daniels_burger.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+
+}
+
+.burger-section {
+  background-color: rgba(239, 254, 255, 0.8);
+  border-radius: 25px;
+  margin: 10px;
+  align-content: center;
+}
+.burger-content {
+  align-content: center;
+}
+.main-title {
+  color: 	#336699;
+  font-family: 'Luckiest Guy', cursive;
+}
+.title-burger {
+  color: 	#336699;
+  font-family: 'Luckiest Guy', cursive;
+}
+.burger-word {
+  color: 	#336699;
+  font-family: 'Luckiest Guy', cursive;
+}
+.change-devoured{
+  border-radius: 15px;
+
+}
+.burger-button{
+  border-radius: 8px;
+}
+.description{
+  width: 350px;
+  border-radius: 10px;
+  background-color: rgb(239, 247, 255,0.8);
+  font-family: 'Patrick Hand', cursive;
+  font-size: 18px;
+  text-align: center;
+}
